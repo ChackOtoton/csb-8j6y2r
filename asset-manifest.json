@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://chackototon.github.io/csb-8j6y2r/static/js/main.cbd2effe.chunk.js",
+    "main.js.map": "https://chackototon.github.io/csb-8j6y2r/static/js/main.cbd2effe.chunk.js.map",
+    "runtime-main.js": "https://chackototon.github.io/csb-8j6y2r/static/js/runtime-main.44267876.js",
+    "runtime-main.js.map": "https://chackototon.github.io/csb-8j6y2r/static/js/runtime-main.44267876.js.map",
+    "static/js/2.a5088add.chunk.js": "https://chackototon.github.io/csb-8j6y2r/static/js/2.a5088add.chunk.js",
+    "static/js/2.a5088add.chunk.js.map": "https://chackototon.github.io/csb-8j6y2r/static/js/2.a5088add.chunk.js.map",
+    "index.html": "https://chackototon.github.io/csb-8j6y2r/index.html",
+    "static/js/2.a5088add.chunk.js.LICENSE.txt": "https://chackototon.github.io/csb-8j6y2r/static/js/2.a5088add.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44267876.js",
+    "static/js/2.a5088add.chunk.js",
+    "static/js/main.cbd2effe.chunk.js"
+  ]
+}
